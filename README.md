@@ -1,2 +1,2 @@
 # ProjectHRDS
-"Hardware and Sensors" course class projects
+"Hardware and Sensors" course pratical class projects
